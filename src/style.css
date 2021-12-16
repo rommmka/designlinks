@@ -4,8 +4,8 @@
 @tailwind utilities;
 
 @layer base {
-   body {
-      /*@apply bg-black;*/
+   .tabs-content li {
+      @apply bordered box-border shadow-lg;
    }
 }
 

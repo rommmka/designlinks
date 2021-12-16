@@ -1,5 +1,5 @@
 module.exports = {
-  content: ["index.php"],
+  content: ["index.md", "_includes/*"],
   theme: {
     extend: {},
     container: {
